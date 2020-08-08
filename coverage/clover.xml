@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1596889651657" clover="3.2.0">
+  <project timestamp="1596889651657" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3" elements="24" coveredelements="24" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="Team.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task_11.1\src\js\Team.js">
+      <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="41" count="2" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="44" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="45" count="6" type="stmt"/>
+      <line num="51" count="2" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="63" count="3" type="stmt"/>
+      <line num="64" count="3" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
